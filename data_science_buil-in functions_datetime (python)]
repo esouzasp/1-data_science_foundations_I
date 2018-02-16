@@ -1,0 +1,21 @@
+# Monday as the first day of the week,
+# and Sunday as the last
+# Use setfirstweekday() to set the first day of the week to
+# Sunday (6) or to any other weekday.
+# Parameters that specify dates are given as integers.
+
+
+# datetime.MINYEAR: The smallest year number allowed in a date or datetime object. MINYEAR is 1.
+# datetime.MAXYEAR: The largest year number allowed in a date or datetime object. MAXYEAR is 9999
+# datetime.time: assuming that every day has exactly 24*60*60 sec; Attributes: hour, minute, second, microsecond, and tzinfo.
+# datetime.datetime: Attributes: year, month, day, hour, minute, second, microsecond, and tzinfo
+# datetime.timedelta(): duration expressing the difference between two date, time, or datetime
+#
+#
+#
+#
+#
+#
+#
+#
+#
